@@ -11,7 +11,7 @@ function App() {
           Simple React App just to show how it is to be publised in an S3
           Bucket.
         </p>{" "}
-        <p>The buddy service is includeded for CICD.</p>
+        <p>The buddy service is included for CICD.</p>
         <a
           className="App-link"
           href="https://reactjs.org"
