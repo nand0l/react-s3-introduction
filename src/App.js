@@ -6,6 +6,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+        <h1>React App hosted on S3</h1>
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Simple React App just to show how it is to be publised in an S3
