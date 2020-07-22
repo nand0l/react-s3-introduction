@@ -9,7 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Simple React App just to show how it is to be publised in an S3
-          Bucket. The buddy service is includeded for CICD.
+          Bucket.<BR> The buddy service is includeded for CICD.
         </p>
 
         <a
