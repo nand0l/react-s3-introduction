@@ -9,9 +9,9 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Simple React App just to show how it is to be publised in an S3
-          Bucket.<BR> The buddy service is includeded for CICD.
-        </p>
-
+          Bucket.
+        </p>{" "}
+        <p>The buddy service is includeded for CICD.</p>
         <a
           className="App-link"
           href="https://reactjs.org"
