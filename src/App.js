@@ -14,7 +14,7 @@ function App() {
         </p>{" "}
         <p>The buddy service is included for CICD.</p>
         <p>
-          so when i change the page it wiil automaticly compiled and published
+          so when i change the page it will automaticly compiled and published
         </p>
         <a
           className="App-link"
