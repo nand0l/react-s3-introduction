@@ -13,6 +13,9 @@ function App() {
           Bucket.
         </p>{" "}
         <p>The buddy service is included for CICD.</p>
+        <p>
+          so when i change the page it wiil automaticly compiled and published
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
