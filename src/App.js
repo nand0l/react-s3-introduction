@@ -17,7 +17,7 @@ function App() {
           so when i change the page it will be automaticly compiled and
           published.
         </p>
-        <p>Welcome to the final session!!!</p>
+        <p>Welcome!!!</p>
         <a
           className="App-link"
           href="https://reactjs.org"
