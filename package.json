@@ -2,6 +2,9 @@
   "name": "react-s3-introduction",
   "version": "0.1.0",
   "private": true,
+  "overrides": {
+    "autoprefixer": "10.4.5"
+  },
   "dependencies": {
     "@babel/core": "^7.16.0",
     "@babel/plugin-syntax-flow": "^7.18.6",
